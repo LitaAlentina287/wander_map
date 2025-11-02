@@ -1,16 +1,33 @@
-# wander_map
+# 🌍 WanderMap
 
-A new Flutter project.
+WanderMap adalah aplikasi Flutter sederhana bertema wisata dunia.  
+Aplikasi ini menampilkan beberapa destinasi wisata terkenal dengan tampilan bergaya modern dan warna lembut biru laut.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Fitur Utama
+- Tampilan destinasi wisata dengan gambar dan nama tempat
+- Tema warna biru lembut (custom theme)
+- Menggunakan font khusus dari Google Fonts
+- Desain responsif dan clean UI
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Teknologi yang Digunakan
+- **Flutter**  
+- **Dart**  
+- **Google Fonts Package**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🖼️ Screenshot
+
+Berikut tampilan hasil aplikasi di emulator:
+
+![App Screenshot](assets/screenshot.png)
+
+> *Pastikan file screenshot kamu disimpan di folder `assets/` dan namanya sama seperti di atas.*
+
+---
+
+## 📁 Struktur Folder Utama
