@@ -9,12 +9,12 @@ Aplikasi ini dikembangkan menggunakan **Flutter** dan **Google Fonts** untuk tam
 
 ## ✨ Fitur Utama
 
-- 🏝️ **Daftar destinasi wisata populer** (Bali Island, Mount Fuji, Santorini, dan lainnya)  
-- 🌈 **Tema kustom (themed app)** dengan warna biru lembut (`#64B5F6`)  
-- 🖋️ **Font khusus "Pacifico"** dari Google Fonts untuk judul aplikasi  
-- 🖼️ **Gambar lokal** dari folder `assets/images/`  
-- 🧱 Tampilan kartu (*Card UI*) untuk setiap destinasi  
-- 📱 Responsif dan dapat di-scroll secara horizontal dan vertikal  
+- **Daftar destinasi wisata populer** (Bali Island, Mount Fuji, Santorini, dan lainnya)  
+- **Tema kustom (themed app)** dengan warna biru lembut (`#64B5F6`)  
+- **Font khusus "Pacifico"** dari Google Fonts untuk judul aplikasi  
+- **Gambar lokal** dari folder `assets/images/`  
+- Tampilan kartu (*Card UI*) untuk setiap destinasi  
+- Responsif dan dapat di-scroll secara horizontal dan vertikal  
 
 ---
 
