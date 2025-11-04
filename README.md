@@ -59,12 +59,9 @@ Berikut hasil tampilan aplikasi saat dijalankan di emulator Android:
 
 ---
 
-/*
-  ==============================================
   WanderMap - Flutter Themed Travel App
   ----------------------------------------------
   Nama   : Lita Alentina
   NIM    : 23552011097
   Kelas  : TIF K 23B
-  ==============================================
-*/
+
