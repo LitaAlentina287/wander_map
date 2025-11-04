@@ -1,7 +1,7 @@
 # 🌍 WanderMap
 
 **WanderMap** adalah aplikasi Flutter bertema **wisata dunia** yang menampilkan daftar destinasi populer dengan tampilan visual menarik.  
-Aplikasi ini dikembangkan menggunakan **Flutter** dan **Google Fonts** untuk tampilan yang modern dan konsisten.
+Aplikasi ini dikembangkan menggunakan **Flutter** dan **Google Fonts** untuk tampilan yang lebih menarik.
 
 > Tugas ini dibuat untuk memenuhi **eLearning (Session 5)**.
 
