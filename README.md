@@ -28,11 +28,11 @@ Berikut hasil tampilan aplikasi saat dijalankan di emulator Android:
 
 **Daftar Destinasi**
 ---
-![Daftar Destinasi](screenshot2.png)
+![Daftar Destinasi](screenshot2.jpeg)
 
 **Tampilan Explore More**
 ---
-![Explore More](screenshot3.png)
+![Explore More](screenshot3.jpeg)
 
 ---
 
