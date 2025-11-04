@@ -20,12 +20,17 @@ Aplikasi ini dikembangkan menggunakan **Flutter** dan **Google Fonts** untuk tam
 
 ## 🖼️ Tampilan Aplikasi
 
-### 📱 Screenshot
+### Screenshot
 Berikut hasil tampilan aplikasi saat dijalankan di emulator Android:
 
-![Screenshot](screenshot.png)
+## Tampilan Utama
+![Tampilan Utama](screenshot1.png)
 
-> Tampilan di atas menunjukkan daftar **Popular Destinations** (scroll horizontal) dan **Explore More** (scroll vertikal).
+## Daftar Destinasi
+![Daftar Destinasi](screenshot2.png)
+
+## Tampilan Explore More
+![Explore More](screenshot3.png)
 
 ---
 
@@ -59,9 +64,7 @@ Berikut hasil tampilan aplikasi saat dijalankan di emulator Android:
 
 ---
 
-  WanderMap - Flutter Themed Travel App
-  ----------------------------------------------
-  Nama   : Lita Alentina
-  NIM    : 23552011097
-  Kelas  : TIF K 23B
+- **Nama**: Lita Alentina  
+- **NIM**: 23552011097  
+- **Kelas**: TIF K 23B
 
