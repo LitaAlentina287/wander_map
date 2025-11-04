@@ -23,12 +23,15 @@ Aplikasi ini dikembangkan menggunakan **Flutter** dan **Google Fonts** untuk tam
 Berikut hasil tampilan aplikasi saat dijalankan di emulator Android:
 
 **Tampilan Utama**
+---
 ![Tampilan Utama](screenshot1.png)
 
 **Daftar Destinasi**
+---
 ![Daftar Destinasi](screenshot2.png)
 
 **Tampilan Explore More**
+---
 ![Explore More](screenshot3.png)
 
 ---
