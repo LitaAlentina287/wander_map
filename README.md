@@ -3,7 +3,7 @@
 **WanderMap** adalah aplikasi Flutter bertema **wisata dunia** yang menampilkan daftar destinasi populer dengan tampilan visual menarik.  
 Aplikasi ini dikembangkan menggunakan **Flutter** dan **Google Fonts** untuk tampilan yang modern dan konsisten.
 
-> 🧩 Tugas ini dibuat untuk memenuhi **eLearning (Session 5)**.
+> Tugas ini dibuat untuk memenuhi **eLearning (Session 5)**.
 
 ---
 
@@ -29,7 +29,7 @@ Berikut hasil tampilan aplikasi saat dijalankan di emulator Android:
 
 ---
 
-## 🧠 Konsep & Komponen Flutter yang Digunakan
+## Konsep & Komponen Flutter yang Digunakan
 
 | Komponen | Fungsi |
 |-----------|--------|
@@ -44,9 +44,27 @@ Berikut hasil tampilan aplikasi saat dijalankan di emulator Android:
 
 ---
 
-## ⚙️ Cara Menjalankan Proyek
+## Tools yang Digunakan
 
-1. **Clone repository dari GitHub**
-   ```bash
-   git clone https://github.com/username/wander_map.git
-   cd wander_map
+| Tool | Fungsi |
+|------|----------------|
+| **Flutter SDK** | Framework utama untuk membangun aplikasi lintas platform (Android, iOS, Windows). |
+| **Dart SDK** | Bahasa pemrograman yang digunakan untuk menulis logika aplikasi Flutter. |
+| **Visual Studio Code** | Editor kode yang digunakan untuk menulis, menjalankan, dan debug proyek. |
+| **Android SDK & Emulator** | Digunakan untuk menjalankan dan menguji aplikasi Flutter di perangkat virtual. |
+| **Git & GitHub** | Untuk versi kontrol dan membagikan proyek ke repository online. |
+| **Google Fonts Package** | Menambahkan font khusus (`Pacifico`) agar tampilan teks lebih menarik. |
+| **Assets (Gambar Lokal)** | Menyimpan file gambar destinasi di folder `assets/images/`. |
+| **Flutter CLI (Command Line Tools)** | Menjalankan perintah seperti `flutter run`, `flutter build`, dan `flutter pub get`. |
+
+---
+
+/*
+  ==============================================
+  WanderMap - Flutter Themed Travel App
+  ----------------------------------------------
+  Nama   : Lita Alentina
+  NIM    : 23552011097
+  Kelas  : TIF K 23B
+  ==============================================
+*/
